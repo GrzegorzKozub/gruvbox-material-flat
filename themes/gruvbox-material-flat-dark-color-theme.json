@@ -23,7 +23,7 @@
     "activityErrorBadge.foreground": "#32302f",
     "activityWarningBadge.background": "#c18f41",
     "activityWarningBadge.foreground": "#32302f",
-    "agentSessionReadIndicator.foreground": "#ff0000",
+    "agentSessionReadIndicator.foreground": "#a89984",
     "agentSessionSelectedBadge.border": "#ff0000",
     "agentSessionSelectedUnfocusedBadge.border": "#ff0000",
     "agentStatusIndicator.background": "#3c3836",

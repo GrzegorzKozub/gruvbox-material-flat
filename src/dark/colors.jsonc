@@ -21,7 +21,7 @@
     "activityErrorBadge.foreground": "{{bg}}",
     "activityWarningBadge.background": "{{dimYellow}}",
     "activityWarningBadge.foreground": "{{bg}}",
-    "agentSessionReadIndicator.foreground": "{{flag}}",
+    "agentSessionReadIndicator.foreground": "{{grey2}}",
     "agentSessionSelectedBadge.border": "{{flag}}",
     "agentSessionSelectedUnfocusedBadge.border": "{{flag}}",
     "agentStatusIndicator.background": "{{bg2}}",
