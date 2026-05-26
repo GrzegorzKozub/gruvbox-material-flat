@@ -722,6 +722,7 @@
     "statusBarItem.warningForeground": "{{bg}}",
     "statusBarItem.warningHoverBackground": "{{yellow}}",
     "statusBarItem.warningHoverForeground": "{{bg}}",
+    "strongForeground": "{{grey2}}",
     "symbolIcon.arrayForeground": "{{grey2}}",
     "symbolIcon.booleanForeground": "{{grey2}}",
     "symbolIcon.classForeground": "{{dimYellow}}",

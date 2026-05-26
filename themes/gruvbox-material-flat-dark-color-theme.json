@@ -724,6 +724,7 @@
     "statusBarItem.warningForeground": "#32302f",
     "statusBarItem.warningHoverBackground": "#d8a657",
     "statusBarItem.warningHoverForeground": "#32302f",
+    "strongForeground": "#a89984",
     "symbolIcon.arrayForeground": "#a89984",
     "symbolIcon.booleanForeground": "#a89984",
     "symbolIcon.classForeground": "#c18f41",
