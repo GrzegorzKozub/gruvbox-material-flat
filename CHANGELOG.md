@@ -2,6 +2,12 @@
 
 Based on [keep a changelog](http://keepachangelog.com/)
 
+## [0.2.12] - 2026-06-14
+
+### Fixed
+
+- Secondary button border
+
 ## [0.2.11] - 2026-05-26
 
 ### Fixed
@@ -96,6 +102,7 @@ Based on [keep a changelog](http://keepachangelog.com/)
 
 - Initial release
 
+[0.2.12]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.11...v0.2.12
 [0.2.11]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.10...v0.2.11
 [0.2.10]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.9...v0.2.10
 [0.2.9]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.8...v0.2.9

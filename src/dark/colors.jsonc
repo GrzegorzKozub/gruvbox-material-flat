@@ -41,7 +41,7 @@
     "button.foreground": "{{bg}}",
     "button.hoverBackground": "{{orange}}",
     "button.secondaryBackground": "{{bg4}}",
-    "button.secondaryBorder": "{{flag}}",
+    "button.secondaryBorder": "default",
     "button.secondaryForeground": "{{grey2}}",
     "button.secondaryHoverBackground": "{{bg6}}",
     "button.separator": "{{bg}}",

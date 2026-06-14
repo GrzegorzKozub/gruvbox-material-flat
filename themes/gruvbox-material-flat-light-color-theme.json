@@ -43,7 +43,7 @@
     "button.foreground": "#f2e5bc",
     "button.hoverBackground": "#c35e0a",
     "button.secondaryBackground": "#e0cfa9",
-    "button.secondaryBorder": "#ff0000",
+    "button.secondaryBorder": "default",
     "button.secondaryForeground": "#7c6f64",
     "button.secondaryHoverBackground": "#c9b99a",
     "button.separator": "#f2e5bc",
