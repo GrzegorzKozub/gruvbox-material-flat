@@ -2,6 +2,13 @@
 
 Based on [keep a changelog](http://keepachangelog.com/)
 
+## [0.2.13] - 2026-09-20
+
+### Fixed
+
+- Editor comment glyph
+- Terminal initial hint
+
 ## [0.2.12] - 2026-06-14
 
 ### Fixed
@@ -102,6 +109,7 @@ Based on [keep a changelog](http://keepachangelog.com/)
 
 - Initial release
 
+[0.2.13]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.12...v0.2.13
 [0.2.12]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.11...v0.2.12
 [0.2.11]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.10...v0.2.11
 [0.2.10]: https://github.com/GrzegorzKozub/gruvbox-material-flat/compare/v0.2.9...v0.2.10
