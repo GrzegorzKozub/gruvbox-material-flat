@@ -68,7 +68,7 @@
     "chat.requestBorder": "#e0cfa9",
     "chat.requestBubbleBackground": "#ebdbb2",
     "chat.requestBubbleHoverBackground": "#e0cfa9",
-    "chat.requestCodeBorder": "#ff0000",
+    "chat.requestCodeBorder": "#e0cfa9",
     "chat.slashCommandBackground": "#f2e5bc",
     "chat.slashCommandForeground": "#68948a",
     "chat.thinkingShimmer": "#bd6f3efe",
